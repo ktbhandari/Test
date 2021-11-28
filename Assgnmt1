@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+I = "Hello world"
+print(I):
+    
+    print('hello world')
+    print
+1+1
+180/65
+ht=170
+wt=65
+bmi=ht/wt
+print(bmi)
+
+kiran = 1.5
+naresh==kiran
+
+height=int(input("what is the height"))
+weight=int(input("what is the weight"))
+bmi=height/weight
+print(bmi)
+
+
+#HW:write a code to capture the marks of high school and show the results whether pass fail or distinction
